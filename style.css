@@ -23,6 +23,8 @@ img {
   max-width: 100%;
   display: block;
 }
+.desktop-menu{
+display:none;}
 body {
   font-size: 18px;
   font-family: "Barlow", sans-serif;
